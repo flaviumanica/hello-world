@@ -1,2 +1,3 @@
 # hello-world
-Test porject
+Test project
+About myself
