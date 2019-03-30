@@ -1,3 +1,1 @@
-# hello-world
-Test project
-About myself
+Test if ssh work
